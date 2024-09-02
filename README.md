@@ -2,7 +2,6 @@
   <strong>Hola, soy earth2geo</strong>
 </div>
 
-<br><br> <!-- Añade dos líneas en blanco antes de la línea divisoria -->
 <hr> <!-- Esta línea divide las secciones -->
 
 <p align="left">
