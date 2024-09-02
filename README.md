@@ -1,5 +1,5 @@
 <div align="center">
-  ## Hola, soy earth2geo
+  <strong>Hola, soy earth2geo</strong>
 </div>
 
 <!--
