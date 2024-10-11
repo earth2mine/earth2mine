@@ -1,4 +1,3 @@
-  <strong>Hola, soy earth2geo</strong>
 </div>
 <hr> <!-- Esta línea divide las secciones -->
 <p align="left">
